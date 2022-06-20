@@ -41,5 +41,4 @@ Listening on http://localhost:3000
 ctrl + c
 ```
 ## 畫面截圖
-![image] (./public/image/225227.jpg)
-![image] (./public/image/225256.jpg)
+![image]([./public/image/225256.jpg](https://github.com/jfh9702/restaurant/blob/main/public/image/225256.jpg))
