@@ -41,4 +41,5 @@ Listening on http://localhost:3000
 ctrl + c
 ```
 ## 畫面截圖
+![image](https://github.com/jfh9702/restaurant/blob/main/public/image/210807.jpg)
 ![image](https://github.com/jfh9702/restaurant/blob/main/public/image/225256.jpg)
